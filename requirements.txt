@@ -1,0 +1,2 @@
+python-telegram-bot[job-queue]==21.6
+yt-dlp>=2025.09.30
